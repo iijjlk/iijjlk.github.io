@@ -19,7 +19,7 @@ My research interests include low-level image enhancement, event-based vision, a
 - [2026] Our paper about xxx was accepted by CVPR 2026.
 - [2026] Our paper about xxx was accepted by Pattern Recognition.
 - [2026] Our paper about xxx was accepted by IEEE TCSVT.
-- [2026] Our paper about xxx was accepted by IEEE Jstar.
+- [2025] Our paper about xxx was accepted by IEEE Jstars.
 - [2025] Our paper about xxx was accepted by CVIU.
 - [2025] Our paper about xxx was accepted by AAAI 2025.
 - [2024] Our paper about xxx was published in IEEE TGRS.
