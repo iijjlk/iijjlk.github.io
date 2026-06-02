@@ -1,0 +1,18 @@
+title: Zishu Yao
+position: Ph.D. Student
+affiliation: Fuzhou University
+email: zishuyao98@gmail.com
+
+keywords: low-level vision, low-light image enhancement, event-based vision, multimodal perception
+description: Academic homepage of Zishu Yao.
+canonical: https://iijjlk.github.io/
+
+github_link: https://github.com/iijjlk
+orcid: https://orcid.org/0009-0009-9984-0029
+
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/avatar.jpg
+
+remote_theme: yaoyao-liu/minimal-light
+plugins:
+  - jekyll-remote-theme
