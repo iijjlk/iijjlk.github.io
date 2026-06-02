@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 # About Me
 
 I am a first-year Ph.D. student in Computer Science and Technology at Fuzhou University.
