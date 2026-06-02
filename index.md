@@ -13,16 +13,17 @@ My research interests include low-level image enhancement, event-based vision, a
 - Low-level image enhancement
 - Event-based vision
 - Multimodal perception
-- Low-light image and video restoration
 
 # News
 
-- [2026] One paper was accepted by CVPR 2026.
-- [2026] One paper was accepted by Pattern Recognition.
-- [2026] One paper was accepted by IEEE TCSVT.
-- [2025] One paper was accepted by AAAI 2025.
-- [2024] One paper was published in IEEE TGRS.
-- [2024] One paper was published in IEEE TIM.
+- [2026] Our paper about xxx was accepted by CVPR 2026.
+- [2026] Our paper about xxx was accepted by Pattern Recognition.
+- [2026] Our paper about xxx was accepted by IEEE TCSVT.
+- [2026] Our paper about xxx was accepted by IEEE Jstar.
+- [2025] Our paper about xxx was accepted by CVIU.
+- [2025] Our paper about xxx was accepted by AAAI 2025.
+- [2024] Our paper about xxx was published in IEEE TGRS.
+- [2024] Our paper about xxx was published in IEEE TIM.
 
 # Publications
 
@@ -49,7 +50,7 @@ My research interests include low-level image enhancement, event-based vision, a
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32289)]
 
 6. **Illumination-aware and Structure-guided Transformer for Low-Light Image Enhancement**  
-   Guodong Fan, **Zishu Yao**, Min Gan  
+   Guodong Fan, **Zishu Yao\***, Min Gan  
    *Computer Vision and Image Understanding (CVIU), 2025.*  
    [[Paper](https://www.sciencedirect.com/science/article/pii/S1077314224003576)]
 
