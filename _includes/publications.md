@@ -2,9 +2,14 @@
 
 {% for item in site.data.publications.main %}
 <div class="publication">
-  {% if item.image %}
+ {% if item.image %}
+<div class="pub-img-wrap">
   <img src="{{ item.image }}" class="pub-img">
+  {% if item.venue %}
+  <span class="pub-venue">{{ item.venue }}</span>
   {% endif %}
+</div>
+{% endif %}
   <div class="pub-text">
     <strong>{{ item.title }}</strong><br>
     {{ item.authors }}<br>
