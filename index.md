@@ -78,14 +78,14 @@ My research interests include low-level image enhancement, event-based vision, a
 
 # News
 
-- [2026] Our paper on task-aware event refinement for low-light image enhancement was accepted by CVPR 2026 [CCFA].
-- [2026] Our paper on event-guided low-light video enhancement was accepted by Pattern Recognition [SCI Q1, IF:7.5].
-- [2026] Our paper on real-world scene text image super-resolution was accepted by IEEE Trans TCSVT [CCFB].
-- [2025] Our paper on frequency-domain low-light remote sensing image enhancement was accepted by IEEE JSTARS [SCI Q2, IF:5.3].
-- [2025] Our paper on Retinex-type low-light image enhancement was accepted by AAAI 2025 [CCFA].
-- [2025] Our paper on illumination-aware and structure-guided low-light image enhancement was accepted by CVIU [CCFB].
-- [2024] Our paper on low-light remote sensing image enhancement was published in IEEE Trans TGRS [CCFB].
-- [2024] Our paper on gradient-aware low-light image enhancement was published in IEEE Trans TIM [SCI Q2, IF:6.83].
+- [2026] Our paper on task-aware event refinement for low-light image enhancement was accepted by CVPR 2026.
+- [2026] Our paper on event-guided low-light video enhancement was accepted by Pattern Recognition.
+- [2026] Our paper on real-world scene text image super-resolution was accepted by IEEE Trans TCSVT.
+- [2025] Our paper on frequency-domain low-light remote sensing image enhancement was accepted by IEEE JSTARS .
+- [2025] Our paper on Retinex-type low-light image enhancement was accepted by AAAI 2025.
+- [2025] Our paper on illumination-aware and structure-guided low-light image enhancement was accepted by CVIU.
+- [2024] Our paper on low-light remote sensing image enhancement was published in IEEE Trans TGRS.
+- [2024] Our paper on gradient-aware low-light image enhancement was published in IEEE Trans TIM.
 
 {% include_relative _includes/publications.md %}
 
