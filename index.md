@@ -16,7 +16,7 @@ layout: homepage
   height: 118px;
   flex-shrink: 0;
   overflow: hidden;
-  border-radius: 6px;
+  border-radius: 4px;
   border: 1px solid #ddd;
   background: #f6f6f6;
 }
@@ -31,16 +31,19 @@ layout: homepage
 
 .pub-venue {
   position: absolute;
-  top: 6px;
-  left: 6px;
-  padding: 3px 7px;
-  border-radius: 4px;
-  background: rgba(166, 40, 40, 0.92);
-  color: #fff;
-  font-size: 12px;
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 16px;
+  background: #061b45;
+  color: #ffffff;
+  font-size: 10px;
   font-weight: 700;
-  line-height: 1;
-  letter-spacing: 0.3px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  border-radius: 0;
+  z-index: 2;
 }
 
 .pub-text {
