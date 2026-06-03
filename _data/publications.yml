@@ -9,7 +9,7 @@ main:
   - title: "Spatio-temporal Collaborative Optimization for Event-guided Low-light Video Enhancement"
     authors: "<strong>Zishu Yao</strong>, Xiang-Xiang Su, Shengning Zhou, Guangyu Zhu, Guodong Fan, Jing Chen"
     conference: "Pattern Recognition, 2026."
-    image: "./assets/img/pr.jpg"
+    image: "./assets/img/PR.jpg"
     
   - title: "Dual Guidance of Visual and Semantic Information for Real-World Scene Text Image Super-resolution: A Novel Approach and Benchmark Dataset"
     authors: "Rui-Lin Shi, <strong>Zishu Yao</strong>, Fei-Yan Chen, et al."
@@ -38,7 +38,7 @@ main:
     conference: "IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024."
     pdf: "https://arxiv.org/abs/2404.17400"
     code: "https://github.com/iijjlk/DFFN"
-    image: "./assets/img/tgrs.jpg"
+    image: "./assets/img/TGRS.jpg"
 
   - title: "GACA: A Gradient-Aware and Contrastive-Adaptive Learning Framework for Low-Light Image Enhancement"
     authors: "<strong>Zishu Yao</strong>, Jian-Nan Su, Guodong Fan, Min Gan, C. L. Philip Chen"
