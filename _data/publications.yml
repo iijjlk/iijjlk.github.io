@@ -1,0 +1,46 @@
+main:
+  - title: "BiEvLight: Bi-level Learning of Task-Aware Event Refinement for Low-Light Image Enhancement"
+    authors: "<strong>Zishu Yao</strong>, Xiang-Xiang Su, Shengning Zhou, Guang-Yong Chen, Guodong Fan, Xing Chen"
+    conference: "Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026."
+    pdf: "https://arxiv.org/abs/2603.04975"
+    code: "https://github.com/iijjlk/BiEvlight"
+    image: "./assets/img/cvpr.jpg"
+
+  - title: "Spatio-temporal Collaborative Optimization for Event-guided Low-light Video Enhancement"
+    authors: "<strong>Zishu Yao</strong>, Xiang-Xiang Su, Shengning Zhou, Guangyu Zhu, Guodong Fan, Jing Chen"
+    conference: "Pattern Recognition, 2026."
+    image: "./assets/img/pr.jpg"
+    
+  - title: "Dual Guidance of Visual and Semantic Information for Real-World Scene Text Image Super-resolution: A Novel Approach and Benchmark Dataset"
+    authors: "Rui-Lin Shi, <strong>Zishu Yao</strong>, Fei-Yan Chen, et al."
+    conference: "IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2026."
+
+
+  - title: "Divide-and-Conquer: Frequency-Domain Decoupling Strategy for Low-Light Remote Sensing Image Enhancement"
+    authors: "Bosong Zhuang, <strong>Zishu Yao</strong>, Guodong Fan, Jinjiang Li"
+    conference: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(JSTARS)</strong>, 2025."
+    image: "./assets/img/Jstars.jpg"
+
+  - title: "IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective"
+    authors: "Guodong Fan, <strong>Zishu Yao</strong>, Guang-Yong Chen, Jian-Nan Su, Min Gan"
+    conference: "AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025."
+    pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/32289"
+
+
+  - title: "Illumination-aware and Structure-guided Transformer for Low-Light Image Enhancement"
+    authors: "Guodong Fan, <strong>Zishu Yao*</strong>, Min Gan"
+    conference: "Computer Vision and Image Understanding <strong>(CVIU)</strong>, 2025."
+    pdf: "https://www.sciencedirect.com/science/article/pii/S1077314224003576"
+    image: "./assets/img/cviu.jpg"
+
+  - title: "Spatial-Frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement"
+    authors: "<strong>Zishu Yao</strong>, Guodong Fan, Jinfu Fan, Min Gan, C. L. Philip Chen"
+    conference: "IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024."
+    pdf: "https://arxiv.org/abs/2404.17400"
+    code: "https://github.com/iijjlk/DFFN"
+    image: "./assets/img/tgrs.jpg"
+
+  - title: "GACA: A Gradient-Aware and Contrastive-Adaptive Learning Framework for Low-Light Image Enhancement"
+    authors: "<strong>Zishu Yao</strong>, Jian-Nan Su, Guodong Fan, Min Gan, C. L. Philip Chen"
+    conference: "IEEE Transactions on Instrumentation and Measurement <strong>(TIM)</strong>, 2024."
+    code: "https://github.com/iijjlk/GACA"
