@@ -7,15 +7,40 @@ layout: homepage
   display: flex;
   align-items: flex-start;
   gap: 18px;
-  margin-bottom: 24px;
+  margin-bottom: 26px;
+}
+
+.pub-img-wrap {
+  position: relative;
+  width: 210px;
+  height: 118px;
+  flex-shrink: 0;
+  overflow: hidden;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  background: #f6f6f6;
 }
 
 .pub-img {
-  width: 180px;
-  height: 110px;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.pub-venue {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  padding: 3px 7px;
   border-radius: 4px;
-  border: 1px solid #ddd;
+  background: rgba(166, 40, 40, 0.92);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.3px;
 }
 
 .pub-text {
@@ -28,9 +53,10 @@ layout: homepage
     flex-direction: column;
   }
 
-  .pub-img {
+  .pub-img-wrap {
     width: 100%;
     height: auto;
+    aspect-ratio: 16 / 9;
   }
 }
 </style>
