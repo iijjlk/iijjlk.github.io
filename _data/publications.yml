@@ -28,6 +28,7 @@ main:
     authors: "Guodong Fan, <strong>Zishu Yao</strong>, Guang-Yong Chen, Jian-Nan Su, Min Gan"
     conference: "AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025."
     pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/32289"
+    image: "./assets/img/aaai.png"
     venue: "AAAI"
 
   - title: "Illumination-aware and Structure-guided Transformer for Low-Light Image Enhancement"
