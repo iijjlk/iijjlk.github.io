@@ -33,13 +33,13 @@ layout: homepage
   position: absolute;
   top: 0;
   left: 0;
-  width: 62px;
-  height: 16px;
+  width: 70px;
+  height: 20px;
   background: #061b45;
   color: #ffffff;
-  font-size: 10px;
+  font-size: 15px;
   font-weight: 700;
-  line-height: 16px;
+  line-height: 20px;
   text-align: center;
   letter-spacing: 0.2px;
   border-radius: 0;
