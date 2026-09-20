@@ -66,9 +66,9 @@ layout: homepage
 
 # About Me
 
-I am a first-year Ph.D. student in Computer Science and Technology at Fuzhou University.
+I am a Second-year Ph.D. student in Computer Science and Technology at Fuzhou University.
 
-My research interests include low-level image enhancement, event-based vision, and multimodal perception. I am currently exploring how event signals, image priors, and multimodal representations can be used to enhance degraded visual data under challenging conditions.
+My research interests include Low-Level Image Enhancement, Event-based vision, and Multimodal Perception. I am currently exploring how event signals, image priors, and multimodal representations can be used to enhance degraded visual data under challenging conditions.
 
 # Research Interests
 
