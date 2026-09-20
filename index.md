@@ -72,9 +72,9 @@ My research interests include Low-Level Image Enhancement, Event-based vision, a
 
 # Research Interests
 
-- Low-level image enhancement
-- Event-based vision
-- Multimodal perception
+- Low-Level Image Enhancement
+- Event-based Vision
+- Multimodal Perception
 
 # News
 
